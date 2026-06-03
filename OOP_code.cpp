@@ -22,7 +22,7 @@ public:
         {
             total+=salary1[i];
         }
-        cout<<"total salary "<<total;
+        cout<<"total salary: "<<total;
     }
 };
 //hassan number one
